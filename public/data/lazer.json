@@ -1,0 +1,119 @@
+[
+  {
+    "id": "hotel-baia-luanda",
+    "categoria": "Lazer",
+    "nome": "Hotel Baía Luanda",
+    "contactos": {
+      "telefone": ["+244 222 XXX XXX"], 
+      "whatsapp": null,
+      "email": "reservas@hotelbaia.co.ao", 
+      "website": "https://www.hotelbaia.co.ao", 
+      "instagram": "@hotelbaialuanda" 
+    },
+    "imagens": ["/images/4-Lazer/Baia/1.jpg", "/images/4-Lazer/Baia/2.jpg", "/images/4-Lazer/Baia/3.jpg", "/images/4-Lazer/Baia/4.jpg"],
+    "coordenadas": { "latitude": -8.819464, "longitude": 13.216964 },
+    "estrelas": 4.1,
+    "localizacao_texto": "Av. Dr. Agostinho Neto, Luanda Angola",
+    "descricao_curta": "Hotel em Luanda com diversas comodidades como piscina e academia.",
+    "descricao_longa": "Hotel Baía Luanda, localizado na Av. Dr. Agostinho Neto. Oferece estacionamento gratuito, Wi-Fi, academia, piscina, café da manhã gratuito, serviço de traslado, business center e instalações para conferências. Quartos com isolamento acústico e vista para o mar ou ponto turístico.",
+    "horario_funcionamento": [ { "dia": "Todos os dias", "horario": "Aberto 24 horas" } ],
+    "recursos": ["Estacionamento gratuito", "Wi-Fi Gratuito", "Academia", "Piscina", "Café da manhã incluído", "Serviço de traslado", "Business Center", "Salas de Reunião", "Restaurante", "Bar", "Recepção 24h", "Ar Condicionado", "Quartos para não fumantes", "Vista para o mar"],
+    "tags": ["hotel", "luanda", "hospedagem", "lazer", "piscina", "baía", "negócios"],
+    "destaque": true,
+    "reviews": []
+  },
+  {
+    "id": "epic-sana-luanda-hotel",
+    "categoria": "Lazer",
+    "nome": "EPIC SANA Luanda Hotel",
+    "contactos": {
+      "telefone": ["+244 222 642 600"],
+      "whatsapp": null,
+      "email": "reservas.luanda@epic.sanahotels.com", 
+      "website": "https://www.luanda.epic.sanahotels.com/pt/", 
+      "instagram": "@epicsanaluanda" 
+    },
+    "imagens": ["/images/4-Lazer/EpicSana/1.webp", "/images/4-Lazer/EpicSana/2.webp", "/images/4-Lazer/EpicSana/3.webp"],
+    "coordenadas": { "latitude": -8.8144567, "longitude": 13.2350337 },
+    "estrelas": 4.1, 
+    "localizacao_texto": "R. da Missão, Luanda, Angola",
+    "descricao_curta": "Hotel de luxo em Luanda com spa, piscina e business center.",
+    "descricao_longa": "EPIC SANA Luanda Hotel, situado na R. da Missão. Dispõe de estacionamento, Wi-Fi gratuito, academia, piscina, café da manhã gratuito, business center, instalações para conferências e spa completo. Quartos modernos com serviço de quarto, cofre e TV de tela plana.",
+    "horario_funcionamento": [ { "dia": "Todos os dias", "horario": "Aberto 24 horas" } ],
+    "recursos": ["Estacionamento", "Wi-Fi Gratuito", "Academia", "Piscina Externa", "Piscina Interna", "Café da manhã incluído", "Business Center", "Spa", "Serviço de quarto", "Restaurantes", "Bar", "Recepção 24h", "Ar Condicionado", "Quartos para Família", "Suítes"],
+    "tags": ["hotel", "luanda", "hospedagem", "luxo", "spa", "piscina", "epic sana", "5 estrelas"],
+    "destaque": true,
+    "reviews": []
+  },
+    {
+    "id": "intercontinental-luanda-miramar",
+    "categoria": "Lazer",
+    "nome": "InterContinental Luanda Miramar, an IHG hotel",
+    "contactos": {
+        "telefone": ["+244 222 670 500"], 
+        "whatsapp": null,
+        "email": "reservations.luanda@ihg.com", 
+        "website": "https://www.ihg.com/intercontinental/hotels/pt/pt/luanda/ladha/hoteldetail", 
+        "instagram": "@intercontinentalluanda" 
+    },
+    "imagens": ["/images/4-Lazer/InterContinental/1.jpg", "/images/4-Lazer/InterContinental/2.jpg", "/images/4-Lazer/InterContinental/3.jpg"],
+    "coordenadas": { "latitude": -8.8115615, "longitude": 13.2425289 },
+    "estrelas": 4.8,
+    "localizacao_texto": "Rua Marechal Brós Tito, Luanda, Angola",
+    "descricao_curta": "Hotel de luxo da rede IHG em Luanda, com alta avaliação e vista para o mar.",
+    "descricao_longa": "InterContinental Luanda Miramar, um hotel IHG com localização privilegiada. Oferece estacionamento gratuito, Wi-Fi, academia moderna, piscina com vista, café da manhã variado, e atividades como caminhada e windsurfe nas proximidades. Quartos para alérgicos, com vista para o mar ou cidade, e suítes familiares.",
+    "horario_funcionamento": [ { "dia": "Todos os dias", "horario": "Aberto 24 horas" } ],
+    "recursos": ["Estacionamento gratuito", "Wi-Fi Gratuito", "Academia", "Piscina", "Café da manhã incluído", "Restaurante", "Bar", "Recepção 24h", "Serviço de Quarto", "Quarto para alérgicos", "Vista para o mar", "Vista para a cidade", "Suítes", "Quartos para família", "Ar Condicionado", "Business Center"],
+    "tags": ["hotel", "luanda", "hospedagem", "luxo", "IHG", "miramar", "vista mar", "intercontinental"],
+    "destaque": true,
+    "reviews": []
+  },
+  {
+    "id": "protea-hotel-luanda",
+    "categoria": "Lazer",
+    "nome": "Protea Hotel Luanda",
+    "contactos": {
+        "telefone": ["+244 936 991 143"],
+        "whatsapp": null,
+        "email": "reservations@protealuanda.co.ao", 
+        "website": "https://www.marriott.com/en-us/hotels/ladpr-protea-hotel-luanda/overview/", 
+        "instagram": "@proteahotels" 
+    },
+    "imagens": ["/images/4-Lazer/Protea/1.jpg", "/images/4-Lazer/Protea/2.jpg", "/images/4-Lazer/Protea/3.jpg", "/images/4-Lazer/Protea/4.jpg", "/images/4-Lazer/Protea/5.jpg"],
+    "coordenadas": { "latitude": -8.8831895, "longitude": 13.1984354 },
+    "estrelas": 4.9, 
+    "localizacao_texto": "Rua Ex Governador Jose Maria, Gamek a Direita, Luanda",
+    "descricao_curta": "Hotel com excelente avaliação em Luanda, piscina, bar e serviço de babá.",
+    "descricao_longa": "Protea Hotel Luanda, by Marriott. Localizado na Rua Ex Governador Jose Maria, Gamek a Direita. Oferece estacionamento gratuito, Wi-Fi, academia, piscina, bar/lounge, pátio, e serviço de babá. Quartos com isolamento acústico e camas extragrandes.",
+    "horario_funcionamento": [ { "dia": "Todos os dias", "horario": "Aberto 24 horas" } ],
+    "recursos": ["Estacionamento gratuito", "Wi-Fi Gratuito", "Academia", "Piscina", "Bar/lounge", "Restaurante", "Serviço de babá", "Isolamento acústico", "Camas extragrandes", "Suíte nupcial", "Recepção 24h", "Ar Condicionado"],
+    "tags": ["hotel", "luanda", "hospedagem", "protea", "marriott", "piscina", "gamek", "4 estrelas"],
+    "destaque": true,
+    "reviews": []
+  },
+  {
+    "id": "pululukwa-resort",
+    "categoria": "Lazer",
+    "nome": "Pululukwa Resort",
+    "contactos": {
+        "telefone": ["+244 925 752 400"], 
+        "whatsapp": null,
+        "email": "reservas@pululukwa.com", 
+        "website": "https://www.pululukwa.com/", 
+        "instagram": "@pululukwaresort" 
+    },
+    "imagens": ["/images/4-Lazer/Pululukwa/1.jpg", "/images/4-Lazer/Pululukwa/2.jpg", "/images/4-Lazer/Pululukwa/3.jpg"],
+    "coordenadas": { "latitude": -14.9084742, "longitude": 13.464873 },
+    "estrelas": 4.2,
+    "localizacao_texto": "Mapunda, Lubango Angola",
+    "descricao_curta": "Resort em Lubango com hidromassagem, restaurante e atividades familiares.",
+    "descricao_longa": "Pululukwa Resort, localizado em Mapunda, Lubango. Oferece estacionamento gratuito, hidromassagem, bar/lounge, restaurante, bufê de café da manhã, caminhada, recreação para família e serviço de lavanderia, tudo em meio à natureza exuberante.",
+    "horario_funcionamento": [
+      { "dia": "Segunda-feira", "horario": "08:00 – 22:00" }, { "dia": "Terça-feira", "horario": "08:00 – 22:00" }, { "dia": "Quarta-feira", "horario": "08:00 – 22:00" }, { "dia": "Quinta-feira", "horario": "08:00 – 22:00" }, { "dia": "Sexta-feira", "horario": "08:00 – 23:00" }, { "dia": "Sábado", "horario": "08:00 – 23:00" }, { "dia": "Domingo", "horario": "09:00 – 20:00" }
+    ],
+    "recursos": ["Estacionamento gratuito", "Hidromassagem", "Bar/lounge", "Restaurante", "Bufê de café da manhã", "Caminhada", "Recreação para família", "Serviço de lavanderia", "Natureza", "Piscina (verificar)", "Wi-Fi (áreas comuns)"],
+    "tags": ["resort", "lubango", "hospedagem", "lazer", "natureza", "hidromassagem", "familiar", "trilha"],
+    "destaque": true,
+    "reviews": []
+  }
+]

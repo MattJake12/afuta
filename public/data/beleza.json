@@ -1,0 +1,55 @@
+[
+  {
+    "id": "spa-best-of-beauty",
+    "categoria": "Beleza",
+    "nome": "Spa Best Of Beauty",
+    "contactos": {
+      "telefone": ["+244 924 854 444", "+244 924 861 240"],
+      "whatsapp": "+244924861240",
+      "email": "agendamento@bobspa.com", 
+      "website": "https://www.bestofbeautyspa.com", 
+      "instagram": "@bestofbeautyspa" 
+    },
+    "imagens": [
+        "/images/3-Beleza/Beauty/1.jpg", 
+        "/images/3-Beleza/Beauty/2.jpg"
+    ],
+    "coordenadas": { "latitude": -8.9235453, "longitude": 13.1997567 },
+    "estrelas": 4.8,
+    "localizacao_texto": "Rua AL16 Condomínio Casa 4 Talatona, Cabolombo, Luanda, Angola Municipio de Belas",
+    "descricao_curta": "Cabeleireiro, SPA e Clínica de estética em Talatona.",
+    "descricao_longa": "Spa Best Of Beauty oferece serviços de Cabeleireiro, SPA e Clínica de estética. Localizado na Rua AL16, Condomínio Cabolombo, Casa 4, Talatona, Luanda (Municipio de Belas). Ambiente relaxante e profissionais qualificados para cuidar do seu bem-estar.",
+    "horario_funcionamento": [
+      { "dia": "Segunda-feira", "horario": "08:00 – 20:00" }, { "dia": "Terça-feira", "horario": "08:00 – 20:00" }, { "dia": "Quarta-feira", "horario": "08:00 – 20:00" }, { "dia": "Quinta-feira", "horario": "08:00 – 20:00" }, { "dia": "Sexta-feira", "horario": "08:00 – 20:00" }, { "dia": "Sábado", "horario": "09:00 – 19:00" }, { "dia": "Domingo", "horario": "Fechado" }
+    ],
+    "recursos": ["Cabeleireiro", "SPA", "Clínica de estética", "Tratamentos de beleza", "Manicure", "Pedicure", "Massagem", "Estacionamento", "Wi-Fi", "Agendamento Online (verificar)"],
+    "tags": ["spa", "beleza", "cabeleireiro", "estética", "talatona", "luanda", "unhas", "massagem"],
+    "destaque": false,
+    "reviews": [ {"id": "revSpa1", "author": "Sofia L.", "rating": 5, "text": "Atendimento impecável e o lugar é lindo!"} ]
+  },
+  {
+    "id": "maya-spa",
+    "categoria": "Beleza",
+    "nome": "Maya Spa",
+    "contactos": {
+      "telefone": ["+244 9XX XXX XXX"], 
+      "whatsapp": null,
+      "email": "info@mayaspa.co.ao", 
+      "website": null,
+      "instagram": "@mayaspa_luanda" 
+    },
+    "imagens": ["/images/3-Beleza/Maya/1.webp", "/images/3-Beleza/Maya/2.webp", "/images/3-Beleza/Maya/3.webp"],
+    "coordenadas": { "latitude": -8.821855, "longitude": 13.2378991 },
+    "estrelas": 4.5,
+    "localizacao_texto": "Município de Luanda, Rua Joaquim Kapango 92 1. Apt2, Luanda",
+    "descricao_curta": "Salão de beleza e spa de alta avaliação em Luanda.",
+    "descricao_longa": "Maya Spa Beauty Center, um salão de beleza e spa localizado no Município de Luanda, Rua Joaquim Kapango 92 1. Apt2, Luanda, Angola. Oferecemos uma experiência de luxo e bem-estar com tratamentos personalizados.",
+    "horario_funcionamento": [
+      { "dia": "Segunda-feira", "horario": "09:00 – 19:00" }, { "dia": "Terça-feira", "horario": "09:00 – 19:00" }, { "dia": "Quarta-feira", "horario": "09:00 – 19:00" }, { "dia": "Quinta-feira", "horario": "09:00 – 20:00" }, { "dia": "Sexta-feira", "horario": "09:00 – 20:00" }, { "dia": "Sábado", "horario": "10:00 – 18:00" }, { "dia": "Domingo", "horario": "Fechado" }
+    ],
+    "recursos": ["Salão de beleza", "Spa", "Tratamentos estéticos", "Massagem", "Ambiente Climatizado", "Produtos de Qualidade"],
+    "tags": ["spa", "beleza", "salão", "luanda", "estética", "massagem", "luxo"],
+    "destaque": true,
+    "reviews": []
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "restaurante-batuk",
+    "categoria": "Alimentação",
+    "nome": "Restaurante Batuk",
+    "contactos": {
+      "telefone": ["+244 222 718 413"],
+      "whatsapp": null,
+      "email": "info@batuklobito.com",
+      "website": null,
+      "instagram": "@batuk_lobito_oficial"
+    },
+    "imagens": ["/images/1-Alimentacao/Batuk/1.jpg", "/images/1-Alimentacao/Batuk/2.jpg", "/images/1-Alimentacao/Batuk/3.jpg", "/images/1-Alimentacao/Batuk/4.webp"],
+    "coordenadas": { "latitude": -12.3244956, "longitude": 13.5713499 },
+    "estrelas": 4.0,
+    "localizacao_texto": "Praca Luis de Camoes n 8, Lobito Angola",
+    "descricao_curta": "Restaurante em Lobito com almoço e serviço de mesa.",
+    "descricao_longa": "Localizado na Praça Luis de Camoes n 8, Lobito, Angola. Oferece recursos como almoço, serviço de mesa e lugares para sentar, com foco na culinária local.",
+    "horario_funcionamento": [
+      { "dia": "Segunda-feira", "horario": "11:30 – 22:00" }, { "dia": "Terça-feira", "horario": "11:30 – 22:00" }, { "dia": "Quarta-feira", "horario": "11:30 – 22:00" }, { "dia": "Quinta-feira", "horario": "11:30 – 22:30" }, { "dia": "Sexta-feira", "horario": "11:30 – 23:00" }, { "dia": "Sábado", "horario": "12:00 – 23:00" }, { "dia": "Domingo", "horario": "12:00 – 17:00" }
+    ],
+    "recursos": ["Almoço", "Jantar", "Serviço de mesa", "Lugares para sentar", "Comida Angolana", "Bom para grupos", "Ar livre (verificar)"],
+    "tags": ["restaurante", "lobito", "almoço", "comida angolana", "tradicional"],
+    "destaque": false,
+    "reviews": []
+  },
+  {
+    "id": "cafe-del-mar",
+    "categoria": "Alimentação",
+    "nome": "Café del Mar",
+    "contactos": {
+      "telefone": ["+244 923 581 333"],
+      "whatsapp": "+244923581333",
+      "email": "reservas@cafedelmar.co.ao",
+      "website": "http://cafedelmar.co.ao",
+      "instagram": "@cafedelmar_luanda"
+    },
+    "imagens": ["/images/1-Alimentacao/CafeDelMar/1.jpg", "/images/1-Alimentacao/CafeDelMar/2.jpg", "/images/1-Alimentacao/CafeDelMar/3.jpg", "/images/1-Alimentacao/CafeDelMar/4.jpg"],
+    "coordenadas": { "latitude": -8.7644626, "longitude": 13.2580142 },
+    "estrelas": 4.3,
+    "localizacao_texto": "Av. Mortala Mohamed Ilha do Cabo, Luanda Angola",
+    "descricao_curta": "Espaço icónico na Ilha de Luanda com opções vegetarianas e veganas.",
+    "descricao_longa": "O Café Del Mar situa-se na Ilha de Luanda, um espaço icónico da cidade com mais de 20 anos de atividade. Adequado para vegetarianos, com opções veganas e sem glúten. Oferece café da manhã, almoço, jantar, brunch e drinks. Pagamento digital e aceita cartões de crédito Visa.",
+    "horario_funcionamento": [
+      { "dia": "Domingo", "horario": "09:00 – 22:00" }, { "dia": "Segunda-feira", "horario": "10:30 – 23:00" }, { "dia": "Terça-feira", "horario": "10:30 – 23:00" }, { "dia": "Quarta-feira", "horario": "10:30 – 23:00" }, { "dia": "Quinta-feira", "horario": "10:30 – 23:00" }, { "dia": "Sexta-feira", "horario": "10:30 – 23:00" }, { "dia": "Sábado", "horario": "09:00 – 23:00" }
+    ],
+    "recursos": ["Vegetariano", "Vegano", "Sem Glúten", "Pagamento digital", "Cartão Visa", "Café da manhã", "Almoço", "Jantar", "Brunch", "Drinks", "Wi-Fi Grátis", "Vista para o Mar", "Acesso à Praia (verificar época)", "Estacionamento"],
+    "tags": ["café", "restaurante", "ilha de luanda", "vegetariano", "vegano", "brunch", "vista mar"],
+    "destaque": true,
+    "reviews": [ { "id": "revCdm1", "author": "Carlos M.", "rating": 5, "text": "Ambiente fantástico e comida deliciosa. A vista é impagável!"} ]
+  },
+    {
+    "id": "espaco-luanda",
+    "categoria": "Alimentação",
+    "nome": "Espaço Luanda",
+    "contactos": {
+        "telefone": ["+244 928 314 680"],
+        "whatsapp": "+244928314680",
+        "email": "geral@espacoluanda.com",
+        "website": "https://www.espacoluanda.com", 
+        "instagram": "@espacoluanda"
+    },
+    "imagens": ["/images/1-Alimentacao/EspacoLuanda/1.jpg", "/images/1-Alimentacao/EspacoLuanda/2.jpg", "/images/1-Alimentacao/EspacoLuanda/3.jpg"],
+    "coordenadas": { "latitude": -8.8759, "longitude": 13.2618 },
+    "estrelas": 4.1,
+    "localizacao_texto": "Rua do Ministerio da Administração do Territorio Talatona, Luanda Angola",
+    "descricao_curta": "Atmosfera descontraída e trendy com atendimento diferenciado em Talatona.",
+    "descricao_longa": "O Espaço Luanda® caracteriza-se por uma atmosfera descontraída, trendy, onde encontrará um serviço de atendimento diferenciado, personalizado e atencioso. Aceita cartões de crédito Mastercard e Visa. Serve almoço, jantar e drinks.",
+    "horario_funcionamento": [
+        { "dia": "Domingo", "horario": "12:00 – 22:00" }, { "dia": "Segunda-feira", "horario": "12:00 – 22:00" }, { "dia": "Terça-feira", "horario": "12:00 – 22:00" }, { "dia": "Quarta-feira", "horario": "12:00 – 22:00" }, { "dia": "Quinta-feira", "horario": "12:00 – 22:00" }, { "dia": "Sexta-feira", "horario": "12:00 – 23:00" }, { "dia": "Sábado", "horario": "12:00 – 23:00" }
+    ],
+    "recursos": ["Aceita Mastercard", "Aceita Visa", "Almoço", "Jantar", "Drinks", "Serviço de mesa", "Wi-Fi", "Estacionamento", "Ambiente Moderno"],
+    "tags": ["restaurante", "luanda", "talatona", "trendy", "drinks", "moderno"],
+    "destaque": false,
+    "reviews": []
+  },
+  {
+    "id": "kimbo-do-soba",
+    "categoria": "Alimentação",
+    "nome": "Kimbo Do Soba",
+    "contactos": {
+        "telefone": ["+244 922 396 462"],
+        "whatsapp": null,
+        "email": null,
+        "website": null,
+        "instagram": null
+    },
+    "imagens": ["/images/1-Alimentacao/Kimbo/1.jpg", "/images/1-Alimentacao/Kimbo/2.jpg"],
+    "coordenadas": { "latitude": -14.935081, "longitude": 13.469642 },
+    "estrelas": 4.0,
+    "localizacao_texto": "Avenida Nossa Senhora do Monte, Lubango Angola",
+    "descricao_curta": "Restaurante em Lubango com opções para almoço e jantar.",
+    "descricao_longa": "Localizado na Avenida Nossa Senhora do Monte, Lubango, Angola. Oferece almoço, jantar, serviço de mesa, cadeiras para bebês e lugares para sentar. Conhecido pela comida tradicional.",
+    "horario_funcionamento": [
+      { "dia": "Segunda-feira", "horario": "10:00 – 21:00" }, { "dia": "Terça-feira", "horario": "10:00 – 21:00" }, { "dia": "Quarta-feira", "horario": "10:00 – 21:00" }, { "dia": "Quinta-feira", "horario": "10:00 – 21:00" }, { "dia": "Sexta-feira", "horario": "10:00 – 22:00" }, { "dia": "Sábado", "horario": "11:00 – 22:00" }, { "dia": "Domingo", "horario": "11:00 – 16:00" }
+    ],
+    "recursos": ["Almoço", "Jantar", "Serviço de mesa", "Cadeiras para bebês", "Lugares para sentar", "Comida Angolana", "Takeaway"],
+    "tags": ["restaurante", "lubango", "comida tradicional", "familiar", "soba"],
+    "destaque": false,
+    "reviews": []
+  },
+  {
+    "id": "restaurante-dos-lagos",
+    "categoria": "Alimentação",
+    "nome": "Restaurante dos Lagos",
+    "contactos": {
+        "telefone": ["+244 925 752 400"], 
+        "whatsapp": null,
+        "email": "reservas@pululukwa.com", 
+        "website": "https://www.pululukwa.com/restauracao", 
+        "instagram": "@pululukwaresort" 
+    },
+    "imagens": ["/images/1-Alimentacao/Lagos/1.jpg", "/images/1-Alimentacao/Lagos/2.jpg", "/images/1-Alimentacao/Lagos/3.jpg"],
+    "coordenadas": { "latitude": -14.9084742, "longitude": 13.464873 },
+    "estrelas": 3.9,
+    "localizacao_texto": "Pululukwa Resort Bairro da Mapunda, Lubango Angola",
+    "descricao_curta": "Restaurante localizado no Pululukwa Resort em Lubango.",
+    "descricao_longa": "Restaurante dos Lagos, situado no Pululukwa Resort, Bairro da Mapunda, Lubango, Angola. Integrado num resort com ambiente natural, oferecendo café da manhã, almoço e jantar.",
+    "horario_funcionamento": [
+      { "dia": "Segunda-feira", "horario": "07:00 – 10:00, 12:00 – 15:00, 19:00 – 22:00" }, { "dia": "Terça-feira", "horario": "07:00 – 10:00, 12:00 – 15:00, 19:00 – 22:00" }, { "dia": "Quarta-feira", "horario": "07:00 – 10:00, 12:00 – 15:00, 19:00 – 22:00" }, { "dia": "Quinta-feira", "horario": "07:00 – 10:00, 12:00 – 15:00, 19:00 – 22:00" }, { "dia": "Sexta-feira", "horario": "07:00 – 10:00, 12:00 – 15:00, 19:00 – 22:30" }, { "dia": "Sábado", "horario": "07:30 – 10:30, 12:00 – 15:30, 19:00 – 22:30" }, { "dia": "Domingo", "horario": "07:30 – 10:30, 12:00 – 15:30" }
+    ],
+    "recursos": ["Ambiente de resort", "Natureza", "Café da manhã", "Almoço", "Jantar", "Buffet (verificar)", "Estacionamento", "Vista para o lago"],
+    "tags": ["restaurante", "lubango", "resort", "natureza", "lagos", "hotel"],
+    "destaque": false,
+    "reviews": []
+  },
+  {
+    "id": "restaurante-terraza",
+    "categoria": "Alimentação",
+    "nome": "Restaurante Terraza",
+    "contactos": {
+        "telefone": ["+244 9XX XXX XXX"], 
+        "whatsapp": null,
+        "email": "reservas@terraza.co.ao", 
+        "website": null,
+        "instagram": "@terrazaluanda" 
+    },
+    "imagens": ["/images/1-Alimentacao/Terreza/1.webp", "/images/1-Alimentacao/Terreza/2.webp", "/images/1-Alimentacao/Terreza/3.webp"],
+    "coordenadas": { "latitude": -8.921138, "longitude": 13.2020844 },
+    "estrelas": 4.2, 
+    "localizacao_texto": "Luanda, Talatona Angola",
+    "descricao_curta": "Restaurante com terraço em Talatona, Luanda.",
+    "descricao_longa": "Restaurante Terraza localizado em Talatona, Luanda, Angola. Oferece almoço, jantar, serviço de mesa, cadeiras para bebês e um agradável terraço para refeições ao ar livre.",
+    "horario_funcionamento": [
+      { "dia": "Segunda-feira", "horario": "Fechado" }, { "dia": "Terça-feira", "horario": "12:00 – 23:00" }, { "dia": "Quarta-feira", "horario": "12:00 – 23:00" }, { "dia": "Quinta-feira", "horario": "12:00 – 23:00" }, { "dia": "Sexta-feira", "horario": "12:00 – 00:00" }, { "dia": "Sábado", "horario": "12:00 – 00:00" }, { "dia": "Domingo", "horario": "12:00 – 22:00" }
+    ],
+    "recursos": ["Almoço", "Jantar", "Serviço de mesa", "Cadeiras para bebês", "Lugares para sentar", "Terraço", "Bar", "Estacionamento"],
+    "tags": ["restaurante", "talatona", "luanda", "terraço", "bar"],
+    "destaque": false,
+    "reviews": []
+  }
+]

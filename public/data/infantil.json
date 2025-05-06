@@ -1,0 +1,52 @@
+[
+  {
+    "id": "museu-de-historia-natural",
+    "categoria": "Infantil",
+    "nome": "Museu de História Natural",
+    "contactos": {
+      "telefone": ["+244 921 360 872"],
+      "whatsapp": null,
+      "email": "geral.mhn@mincult.gov.ao", 
+      "website": null, 
+      "instagram": null 
+    },
+    "imagens": ["/images/2-Infantil/Museu/1.jpg", "/images/2-Infantil/Museu/2.jpg", "/images/2-Infantil/Museu/3.jpg"],
+    "coordenadas": { "latitude": -8.8151372, "longitude": 13.2384069 },
+    "estrelas": 3.5,
+    "localizacao_texto": "Largo do Quinaxixe, 56MQ+W9V, Nossa Senhora da Muxima, Luanda",
+    "descricao_curta": "Museu Nacional de História Natural de Angola em Luanda.",
+    "descricao_longa": "O Museu Nacional de História Natural de Angola localiza-se no Largo do Quinaxixe, na cidade de Luanda. Criado em 1938 como \"Museu de Angola\", conta com secções de etnografia, história, zoologia, botânica, geologia, economia e arte. Ótimo para visitas escolares e familiares.",
+    "horario_funcionamento": [
+      { "dia": "Segunda-feira", "horario": "Fechado" }, { "dia": "Terça-feira", "horario": "09:00 – 17:00" }, { "dia": "Quarta-feira", "horario": "09:00 – 17:00" }, { "dia": "Quinta-feira", "horario": "09:00 – 17:00" }, { "dia": "Sexta-feira", "horario": "09:00 – 17:00" }, { "dia": "Sábado", "horario": "10:00 – 16:00" }, { "dia": "Domingo", "horario": "10:00 – 16:00" }
+    ],
+    "recursos": ["Exposições", "História", "Cultura", "Educativo", "Visitas Guiadas (verificar)", "Loja de Souvenirs", "Acessibilidade (parcial)"],
+    "tags": ["museu", "história natural", "luanda", "crianças", "educativo", "cultura", "passeio", "familia"],
+    "destaque": true,
+    "reviews": []
+  },
+  {
+    "id": "ulengo-center-luanda",
+    "categoria": "Infantil",
+    "nome": "Ulengo Center - Luanda",
+    "contactos": {
+      "telefone": ["+244 940 087 320"],
+      "whatsapp": null,
+      "email": "info@ulengocenter.com", 
+      "website": "http://www.ulengocenter.com", 
+      "instagram": "@ulengocenter" 
+    },
+    "imagens": ["/images/2-Infantil/Ulengo/1.jpg", "/images/2-Infantil/Ulengo/2.jpg", "/images/2-Infantil/Ulengo/3.jpg"], 
+    "coordenadas": { "latitude": -8.9474707, "longitude": 13.2916294 },
+    "estrelas": 3.3,
+    "localizacao_texto": "Sapu Estadio 11 de Novembro, Luanda 244 Angola. Center Ulengo shopping ulengo Ulengo Luanda, Belas",
+    "descricao_curta": "Centro comercial em Luanda, próximo ao Estádio 11 de Novembro.",
+    "descricao_longa": "Ulengo Center, localizado em Sapu, próximo ao Estadio 11 de Novembro, Luanda. Também referido como Center Ulengo shopping Ulengo, Belas. Oferece diversas lojas, praça de alimentação, cinema e opções de entretenimento infantil.",
+    "horario_funcionamento": [
+        { "dia": "Segunda-feira", "horario": "09:00 – 21:00" }, { "dia": "Terça-feira", "horario": "09:00 – 21:00" }, { "dia": "Quarta-feira", "horario": "09:00 – 21:00" }, { "dia": "Quinta-feira", "horario": "09:00 – 21:00" }, { "dia": "Sexta-feira", "horario": "09:00 – 22:00" }, { "dia": "Sábado", "horario": "09:00 – 22:00" }, { "dia": "Domingo", "horario": "10:00 – 20:00" }
+    ],
+    "recursos": ["Shopping", "Lojas", "Praça de Alimentação", "Entretenimento infantil", "Cinema", "Estacionamento", "Acessibilidade", "Wi-Fi (em áreas comuns)"],
+    "tags": ["shopping", "centro comercial", "luanda", "belas", "crianças", "compras", "cinema", "lazer"],
+    "destaque": false,
+    "reviews": []
+  }
+]
