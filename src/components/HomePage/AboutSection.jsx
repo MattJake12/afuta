@@ -11,7 +11,7 @@ import StickyContent from '../../../src/components/StickyContent'; // Ajuste o c
 import imagemLazer from '../../assets/category-covers/leisure.jpg'; // Exemplo
 import imagemPets from '../../assets/category-covers/pets2.jpg';   // Exemplo
 import imagemAlimentacao from '../../assets/category-covers/comida1.png'; // Exemplo
-import imagemInfantil from '../../assets/category-covers/Infantil.jpg'; // Exemplo
+import imagemInfantil from '../../assets/category-covers/infantil.jpg'; // Exemplo
 // ------------------------------------------
 
 const breakpoints = { mobile: '768px' };
