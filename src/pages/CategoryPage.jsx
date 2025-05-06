@@ -11,7 +11,7 @@ import CategoryHero from '../components/HotelsPage/CategoryHero'; // <-- Importa
 
 // Importar imagens de fundo para cada categoria (AJUSTE OS CAMINHOS!)
 import alimentacaoBg from '../assets/category-covers/Comida3.jpg';
-import infantilBg from '../assets/category-covers/Infantil.jpg';
+import infantilBg from '../assets/category-covers/infantil.jpg';
 import belezaBg from '../assets/category-covers/beleza3.jpg';
 import lazerBg from '../assets/category-covers/lazer11.jpg';
 import petsBg from '../assets/category-covers/pets.png';
